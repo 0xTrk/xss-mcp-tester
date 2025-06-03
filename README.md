@@ -1,5 +1,5 @@
 # xss-mcp-tester
-For an explanation and POC of what this mcp server does, please visit my article on medium : [LINK]. But globally, it's an MCP server for performing XSS tests with AI.  
+For an explanation and POC of what this mcp server does, please visit my article on medium : [Mypost](https://medium.com/@0xTrk/i-built-an-mcp-server-for-xss-testing-heres-what-happened-1c097e79eb8d). But globally, it's an MCP server for performing XSS tests with AI.  
 
 ## Installation (for Vscode but overall it's the same thing)
 
